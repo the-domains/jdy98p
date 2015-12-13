@@ -1,0 +1,28 @@
+name: Jdy98p
+favicon: null
+layout_spectrum: 0.3153860804159194
+typography_spectrum: 0.11912658112123609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8657618002034724
+  lightness: 0.9409489503595978
+  saturation: 0.193078224780038
+  rhythmicContrast: 0.22056818031705916
+purpose: []
