@@ -1,7 +1,7 @@
 name: Jdy98p
 favicon: null
-layout_spectrum: 0.3153860804159194
-typography_spectrum: 0.11912658112123609
+layout_spectrum: 0.59079
+typography_spectrum: 0.26854
 title: Test Grid Site
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8657618002034724
+  brandStrength: 0.5
   lightness: 0.9409489503595978
-  saturation: 0.193078224780038
-  rhythmicContrast: 0.22056818031705916
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
