@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jdy98p]]></title>
-        <description><![CDATA[Jdy98p]]></description>
+        <title><![CDATA[Test Grid Site]]></title>
+        <description><![CDATA[Test Grid Site]]></description>
         <link>https://thegrid.ai/jdy98p/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 18:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 15:22:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jdy98p/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First post]]></title>
-            <description><![CDATA[<article><h1>First post</h1><p>This is my first test post  </p></article>]]></description>
+            <description><![CDATA[<p>This is my first test post  </p>]]></description>
             <link>https://thegrid.ai/jdy98p/first-post/index.html</link>
             <guid isPermaLink="false">3f84a754-b775-4f6a-85f6-b69e57283edf</guid>
             <pubDate>Sun, 13 Dec 2015 18:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>this is a test post</p>]]></description>
+            <link>https://thegrid.ai/jdy98p/this-is-a-test-post/index.html</link>
+            <guid isPermaLink="false">e787b004-7428-42f7-b47d-65e5030147bc</guid>
+            <pubDate>Wed, 08 Jun 2016 15:21:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
